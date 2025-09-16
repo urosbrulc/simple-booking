@@ -2,6 +2,8 @@
 
 A Laravel 12 web application for car rental management with user authentication, car booking functionality, and admin panel.
 
+Test URL: https://diploma.urosbrulc.com/public/
+
 ## Features
 
 ### User Features
